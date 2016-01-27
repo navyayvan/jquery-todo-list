@@ -1,17 +1,31 @@
 h1 {
 	text-align:center;
 	margin: auto;
-	font-family: Arial;
+	font-family: Georgia;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
 }
 
 body {
 	background-color: #99FFFF;
+	background-image: url(http://i.imgur.com/5ni9GBh.jpg);
 }
 
 ul {
 	text-decoration: none;
+	color:white;
+	font-size: 2em;
+	font-family: Georgia;
+	list-style-type: none;
+	margin-left: 510px;
 }
 
 form {
 	margin-left: 530px;
+}
+
+button {
+	outline-color: powderblue;
+	background-color: powderblue;
 }
